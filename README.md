@@ -78,7 +78,7 @@ The CSV file includes the video path for each player along with their correspond
 - Conceptually for the defensive consistency skill, a lower rating is better (i.e., 0 represents excellent defense).
 
 ### Checkpoint
-You can find each model's checkpoint [here](https://www.dropbox.com/scl/fo/yyz359p9tvjgzfaa0hi3o/ACGzVmqaTVkotDl_gH9n9kk?rlkey=rlv3ahno6q78imxwbigk3qlsg&st=cf57kgir&dl=0)
+You can find each model's checkpoint [here](https://www.dropbox.com/scl/fo/owwl5gpfj34rgf16iqp2g/ABfiu4ld9wCwBrmUU6k_ROg?rlkey=zayb4qpgom7ig74hx8hqy3t64&st=ti26uf75&dl=0)
 
 ## Training
 We trained and tested on 8 NVIDIA RTX A6000 GPUs. Results may slightly vary due to non-fixed random seeds, GPU specifications, and data transmission.
