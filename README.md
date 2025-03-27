@@ -8,7 +8,7 @@ UNC Chapel Hill
 
 Accepted by **CVPR 2025** 
 
-[Paper](assets/BASKET_A_Large_Scale_Video_Dataset_for_Fine_Grained_Skill_Estimation.pdf) [Project Page](https://sites.google.com/cs.unc.edu/basket) [Data](https://docs.google.com/forms/d/e/1FAIpQLSd_NXfijBL4nIn0aXDNni3VCPoYGUM5l8w55uOtD11qp_g5iQ/viewform?usp=dialog)
+[[Paper](https://arxiv.org/abs/2503.20781)] [[Project Page](https://sites.google.com/cs.unc.edu/basket)] [[Data](https://docs.google.com/forms/d/e/1FAIpQLSd_NXfijBL4nIn0aXDNni3VCPoYGUM5l8w55uOtD11qp_g5iQ/viewform?usp=dialog)]
 
 </div>
 
