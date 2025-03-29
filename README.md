@@ -74,7 +74,7 @@ $ANNOTATIONS_ROOT
 
 ### Annotation Structure
 The CSV file includes the video path for each player along with their corresponding ratings for 20 skills. Conceptually, a rating of 0 indicates poor performance in a skill, while a rating of 4 represents excellence.
-- We recommand changing the annotation file video path to complete path once downloaded. e.g. /User/my_user_name/BASKET_video/18-19/...mp4
+- We recommend changing the annotation file video path to complete path once downloaded. e.g. /User/my_user_name/BASKET_video/18-19/...mp4
 - Conceptually for the defensive consistency skill, a lower rating is better (i.e., 0 represents excellent defense).
 
 ### Checkpoint
