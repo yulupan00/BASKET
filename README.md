@@ -8,7 +8,7 @@ UNC Chapel Hill
 
 Accepted by **CVPR 2025** 
 
-[[Paper](https://arxiv.org/abs/2503.20781)] [[Project Page](https://sites.google.com/cs.unc.edu/basket)] [[Data](https://docs.google.com/forms/d/e/1FAIpQLSd_NXfijBL4nIn0aXDNni3VCPoYGUM5l8w55uOtD11qp_g5iQ/viewform?usp=dialog)]
+[[Paper](https://arxiv.org/abs/2503.20781)] [[Project Page](https://sites.google.com/cs.unc.edu/basket)] [[Data](https://huggingface.co/datasets/yulupan/BASKET)]
 
 </div>
 
@@ -33,7 +33,9 @@ Please follow the installation instructions for each model repository.
 ## Dataset & Annotations
 
 ### BASKET Download
-To download the BASKET dataset, please complete this [form](https://docs.google.com/forms/d/e/1FAIpQLSd_NXfijBL4nIn0aXDNni3VCPoYGUM5l8w55uOtD11qp_g5iQ/viewform?usp=dialog) to request access. By submitted the form, you are agreeing and acknowledging that you have read and understand the notice. We will reply with the link and the corresponding guidelines after we receive your request.
+To download the BASKET dataset, please access Hugging Face [page](https://huggingface.co/datasets/yulupan/BASKET) to request access. By submitted the form, you are agreeing and acknowledging that you have read and understand the notice. We will reply with the link and the corresponding guidelines after we receive your request.
+
+**Please note that the dataset is ~1.8T in size.**
 
 ### Data Structure
 
@@ -74,7 +76,7 @@ $ANNOTATIONS_ROOT
 
 ### Annotation Structure
 The CSV file includes the video path for each player along with their corresponding ratings for 20 skills. Conceptually, a rating of 0 indicates poor performance in a skill, while a rating of 4 represents excellence.
-- We recommand changing the annotation file video path to complete path once downloaded. e.g. /User/my_user_name/BASKET_video/18-19/...mp4
+- We recommend changing the annotation file video path to complete path once downloaded. e.g. /User/my_user_name/BASKET_video/18-19/...mp4
 - Conceptually for the defensive consistency skill, a lower rating is better (i.e., 0 represents excellent defense).
 
 ### Checkpoint
